@@ -106,7 +106,7 @@ let fight (deck1 : deck) (deck2 : deck) : player * player * int =
     let p2 = { name ="P2"; life = 30; deck = deck2 }
     p1, p2, 0
 
-
+// questo e un commento di prova per github
 
 // main code
 //
